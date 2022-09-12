@@ -1,0 +1,17 @@
+{
+  "name": "com.native.test",
+  "version": "0.0.1",
+  "description": "Testing",
+  "cordova": {
+    "id": "com.native.test",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Test",
+  "license": "ISC"
+}
